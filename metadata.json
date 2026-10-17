@@ -1,0 +1,8 @@
+{
+  "name": "SwapCraft - AI Smart Object Inpainter",
+  "description": "Seamlessly replace objects in photographs with reference objects using Gemini multimodal vision detection and generative inpainting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
